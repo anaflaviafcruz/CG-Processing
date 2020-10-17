@@ -1,5 +1,5 @@
 //utilizei o exemplo https://processing.org/reference/PImage_pixels.html
-// Para fazer a cor invertida basta subitrair 255 do red, green, blue
+// Para fazer a cor invertida basta subtrair 255 de red, green, blue
 
 PImage tower;
 
